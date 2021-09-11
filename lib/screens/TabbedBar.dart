@@ -40,7 +40,7 @@ class Choice {
 }
 
 const List<Choice> choices = <Choice>[
-  Choice(title: 'CAR', icon: Icons.directions_car),
+  Choice(title: 'CAR', icon: Icons.directions_car), 
   Choice(title: 'BICYCLE', icon: Icons.directions_bike),
   Choice(title: 'BUS', icon: Icons.directions_bus),
   Choice(title: 'TRAIN', icon: Icons.directions_railway),
